@@ -41,7 +41,6 @@ Usa una estructura fácil de consultar:
 - **Categoría**:
 - **Descripción**:
 - **Etapa**:
-- **Sitio web**:
 
 ## Público
 - **Público principal**:
